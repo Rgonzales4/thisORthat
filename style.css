@@ -1,0 +1,23 @@
+:root {
+  --pink1: #fef0f5;
+  --pink2: #ffd7e3;
+  --pink3: #ffbdd3;
+  --pink4: #ffa3c2;
+}
+
+.btn {
+  padding: 30px;
+  border-radius: 10px;
+  border: 5px solid;
+  background-color: var(--pink1);
+  border-color: var(--pink3);
+  text-align: center;
+  font-size: larger;
+  font-weight: bold;
+}
+
+.btn:hover {
+  cursor: pointer;
+  background-color: var(--pink2);
+  border-color: var(--pink4);
+}

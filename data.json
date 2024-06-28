@@ -1,0 +1,8 @@
+{
+  "categories": {
+    "Food": ["Filipino", "Korean", "Japanese", "Thai", "Chinese", "Savoury", "Sweet"],
+    "Fashion": [],
+    "Household": [],
+    "All": null
+  }
+}
