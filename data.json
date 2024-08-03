@@ -1,8 +1,24 @@
 {
-  "categories": {
-    "Food": ["Filipino", "Korean", "Japanese", "Thai", "Chinese", "Savoury", "Sweet"],
-    "Fashion": [],
-    "Household": [],
-    "All": null
-  }
+	"Food": {
+		"Filipino": ["Caldereta", "Menudo", "Sinigang", "Adobo", "Lumpia", "Tinola", "Kare Kare", "Lugow"],
+		"Korean": [],
+		"Japanese": [],
+		"Thai": [],
+		"Chinese": [],
+		"Savoury": [],
+		"Sweet": []
+	},
+	"Clothes": {
+		"Clothes": [],
+		"Accessories": [],
+		"Shoes": [],
+		"outfits": []
+	},
+	"Household": {
+		"Kitchen": [],
+		"Bedroom": [],
+		"Toilet": [],
+		"Lounge Room": [],
+		"Dining Room": []
+	}
 }
