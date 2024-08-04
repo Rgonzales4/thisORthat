@@ -1,24 +1,33 @@
 {
 	"Food": {
-		"Filipino": ["Caldereta", "Menudo", "Sinigang", "Adobo", "Lumpia", "Tinola", "Kare Kare", "Lugow"],
-		"Korean": [],
-		"Japanese": [],
-		"Thai": [],
-		"Chinese": [],
-		"Savoury": [],
-		"Sweet": []
+		"Filipino": {
+			"Caldereta": "https://recipes.net/wp-content/uploads/2023/05/lainys-beef-caldereta-recipe_b331e258e28667b76d42f6c956be314e.jpeg",
+			"Menudo": "https://www.foxyfolksy.com/wp-content/uploads/2017/05/menudo-recipe-1.jpg",
+			"Sinigang": "https://cookandsavor.com/wp-content/uploads/Sinigang1-2048x1536.jpg",
+			"Adobo": "https://www.eatwithcarmen.com/wp-content/uploads/2022/09/what-is-adobo-chicken-720x1080.jpg",
+			"Lumpia": "https://www.allrecipes.com/thmb/g9e_IulIBTSmu-24aKsHrkWXW_Y=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/35151-traditional-filipino-lumpia-ddmfs-hero-3x4-0744-6a66461864c9437da74828a882f2c42a.jpg",
+			"Tinola": "https://images.ctfassets.net/pxcfulgsd9e2/5AdDxxvnSrsaRFZtkI0yws/e68046e73433905178dee2a0909a45df/Chicken_Tinola_recipe_HN3483_Recipe_Cover_Sized.jpg",
+			"Kare Kare": "https://www.kawalingpinoy.com/wp-content/uploads/2014/01/karekare4-1.jpg",
+			"Lugow": "https://static01.nyt.com/images/2016/06/08/dining/08FILIPINO2-web/08FILIPINO2-web-jumbo.jpg"
+		},
+		"Korean": {},
+		"Japanese": {},
+		"Thai": {},
+		"Chinese": {},
+		"Savoury": {},
+		"Sweet": {}
 	},
 	"Clothes": {
-		"Clothes": [],
-		"Accessories": [],
-		"Shoes": [],
-		"outfits": []
+		"Clothes": {},
+		"Accessories": {},
+		"Shoes": {},
+		"outfits": {}
 	},
 	"Household": {
-		"Kitchen": [],
-		"Bedroom": [],
-		"Toilet": [],
-		"Lounge Room": [],
-		"Dining Room": []
+		"Kitchen": {},
+		"Bedroom": {},
+		"Toilet": {},
+		"Lounge Room": {},
+		"Dining Room": {}
 	}
 }
