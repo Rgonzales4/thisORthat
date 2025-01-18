@@ -226,7 +226,11 @@ function gameLogic(data, mainCategory, subCategory) {
 	if (currentIndex > parsedPairs.length - 1) {
 		console.log("End of pairs.");
 		document.getElementById("gameDiv").style.display = "none";
-		document.getElementById("endOfGameDiv").style.display = "flex";
+		if(parsedPairs.length < 1){
+			document.getElementById("noDataDiv").style.display = "flex";
+		} else {
+			document.getElementById("endOfGameDiv").style.display = "flex";
+		}
 	}
 
 	// Get current slide
