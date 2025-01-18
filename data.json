@@ -8,11 +8,44 @@
 			"Lumpia": "https://www.allrecipes.com/thmb/g9e_IulIBTSmu-24aKsHrkWXW_Y=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/35151-traditional-filipino-lumpia-ddmfs-hero-3x4-0744-6a66461864c9437da74828a882f2c42a.jpg",
 			"Tinola": "https://images.ctfassets.net/pxcfulgsd9e2/5AdDxxvnSrsaRFZtkI0yws/e68046e73433905178dee2a0909a45df/Chicken_Tinola_recipe_HN3483_Recipe_Cover_Sized.jpg",
 			"Kare Kare": "https://www.kawalingpinoy.com/wp-content/uploads/2014/01/karekare4-1.jpg",
-			"Lugow": "https://static01.nyt.com/images/2016/06/08/dining/08FILIPINO2-web/08FILIPINO2-web-jumbo.jpg"
+			"Lugow": "https://static01.nyt.com/images/2016/06/08/dining/08FILIPINO2-web/08FILIPINO2-web-jumbo.jpg",
+			"Lechon": "https://static01.nyt.com/images/2023/11/28/multimedia/ND-Lechon-Kawali-bflv/ND-Lechon-Kawali-bflv-superJumbo.jpg",
+			"Pancit": "https://static01.nyt.com/images/2023/12/20/multimedia/ND-Pancit-bfvq/ND-Pancit-bfvq-mediumSquareAt3X.jpg"
 		},
-		"Korean": {},
-		"Japanese": {},
-		"Thai": {},
+		"Korean": {
+			"Kimchi Jjigae": "https://www.koreanbapsang.com/wp-content/uploads/2014/03/DSC_5089-3.jpg",
+			"Bibimbap": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dolsot-bibimbap.jpg/1200px-Dolsot-bibimbap.jpg",
+			"Bulgogi": "https://static01.nyt.com/images/2023/11/14/multimedia/JM-Bulgogi-qmfj/JM-Bulgogi-qmfj-superJumbo.jpg",
+			"Japchae": "https://christieathome.com/wp-content/uploads/2022/08/Japchae-17.jpg",
+			"Samgyeopsal": "https://www.bokksumarket.com/cdn/shop/articles/shutterstock_1859012482.jpg?v=1716389523",
+			"Doenjang Jjigae": "https://www.koreanbapsang.com/wp-content/uploads/2018/06/DSC_0672.jpg",
+			"Tteokbokki": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2024-09-tteokbokki%2Ftteokbokki-523",
+			"Haemul Pajeon": "https://www.wandercooks.com/wp-content/uploads/2021/03/haemul-pajeon-korean-seafood-pancake-8.jpg",
+			"Galbi": "https://live.staticflickr.com/6/5531/30503823454_a75aae1f48_b.jpg",
+			"Naengmyeon": "https://static01.nyt.com/images/2023/11/21/multimedia/26EATrex-naengmyeon-cfbl/26EATrex-naengmyeon-cfbl-superJumbo.jpg"
+		},
+		"Japanese": {
+			"Ramen": "https://www.craftycookbook.com/wp-content/uploads/2023/04/tonkotsu.jpg",
+			"Sushi": "https://img.cdn4dd.com/cdn-cgi/image/fit=cover,width=600,height=400,format=auto,quality=80/https://doordash-static.s3.amazonaws.com/media/store/header/7b598f3a-cc54-4059-be61-4b6bcc4b1ea2.jpg",
+			"Okonomiyaki": "https://www.souschef.co.uk/cdn/shop/articles/pancake-blog-header-image-1570px.jpg?v=1612803899",
+			"Takoyaki": "https://s.hungryghostfoodandtravel.com/media/20240912224148/takoyaki-recipe_done.png",
+			"Tonkatsu": "https://static01.nyt.com/images/2024/02/28/multimedia/ND-tonkatsu-hbtg/ND-tonkatsu-hbtg-jumbo.jpg",
+			"Katsu Curry": "https://cdn.shopify.com/s/files/1/0012/4328/3505/files/image-3.jpg?v=1637318945",
+			"Gyoza": "https://www.justonecookbook.com/wp-content/uploads/2024/04/Gyoza-7444-I-2-500x500.jpg",
+			"Yakitori": "https://www.justonecookbook.com/wp-content/uploads/2024/04/Yakitori-7831-I.jpg",
+			"Udon": "https://www.justonecookbook.com/wp-content/uploads/2024/03/Kake-Udon-7549-I-1.jpg",
+			"Yakisoba": "https://norecipes.com/wp-content/uploads/2019/05/yakisoba-noodles-014.jpg"
+		},
+		"Thai": {
+			"Pad Thai": "https://inquiringchef.com/wp-content/uploads/2023/02/Authentic-Pad-Thai_square-1908.jpg",
+			"Green Curry": "https://saltedmint.com/wp-content/uploads/2024/03/Thai-green-curry-vegetarian-2-500x375.jpg",
+			"Tom Yum Goong": "https://i2.wp.com/seonkyounglongest.com/wp-content/uploads/2021/03/Tom-Yum-07-mini.jpg?fit=1000%2C667&ssl=1",
+			"Massaman Curry": "https://www.feastingathome.com/wp-content/uploads/2024/10/massaman-curry-recipe-9.jpg",
+			"Som Tum": "https://www.seriouseats.com/thmb/yKNZ9ICJC5ZNhzcYHdHENxogpFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210928-Som-Tam-Thai-green-papaya-salad-vicky-wasik-24-f0d666fc609f49a0b9f34897bd2c6303.jpg",
+			"Pad See Ew": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2024-05-pad-see-ew%2Fpad-see-ew-357",
+			"Khao Pad": "https://www.andy-cooks.com/cdn/shop/articles/20240903051733-andy-20cooks-20-20thai-20prawn-20fried-20rice.jpg?v=1725927874",
+			"Khao Man Gai": "https://www.thespruceeats.com/thmb/bGeARnS56XAFr1DgyFxe_gpSusA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/thai-khao-man-gai-4767706-hero-01-08fec21125fe4d3bbd00d53ab95de058.jpg"
+		},
 		"Chinese": {},
 		"Savoury": {},
 		"Sweet": {}
@@ -21,7 +54,7 @@
 		"Clothes": {},
 		"Accessories": {},
 		"Shoes": {},
-		"outfits": {}
+		"Outfits": {}
 	},
 	"Household": {
 		"Kitchen": {},
